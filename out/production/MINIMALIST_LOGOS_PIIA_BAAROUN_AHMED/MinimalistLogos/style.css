@@ -1,0 +1,16 @@
+/*Fichier .css permettant d'apporter du style et de respecter l'heuristique du Minimalisme et de l'esthétique*/
+
+.root {
+    -fx-font-family: "Calibri";
+    -fx-base: #F0F0F0;
+    -fx-background: #FFFFFF;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-padding: 5;
+}
+
+.button:hover {
+    -fx-background-color: rgba(0, 0, 0, 0.1);
+}
